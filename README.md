@@ -1,1 +1,1 @@
-tthis is a recipe roject for my odin course. this project will demonstrate my html skill
+this is a recipe project for my odin course.
