@@ -1,0 +1,21 @@
+div {
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    background-color: #801e1e1e;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+div h2 {
+    text-align: center;
+}
+
+.desc, .ingredients, .steps {
+    text-align: left;
+}

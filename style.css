@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+div {
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    background-color: #801e1e1e;
+    margin: 0 auto;
+}
+
+.lzb, .rzc, .zbs {
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+h1 {
+    padding: 10px;    
+}
